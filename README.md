@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Ayush Verma 👋
 
-<!--
-**aayushv2003/aayushv2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS Computer Science, University of Texas at Arlington
 
-Here are some ideas to get you started:
+💻 Software Engineer | Backend Developer | AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Python Developer
+- Backend Development with FastAPI
+- AI & Machine Learning Projects
+- Learning System Design and DSA
+
+## Tech Stack
+
+- Python
+- FastAPI
+- SQLAlchemy
+- PostgreSQL
+- MongoDB
+- OpenAI APIs
+- AWS
+
+## Featured Projects
+
+### ApplyMate AI
+AI-powered job application assistant.
+
+### Bedtime Story Generator
+Multi-stage LLM storytelling pipeline.
+
+### Investment Scouting Engine
+AI-assisted stock research platform.
+
+## Current Focus
+
+- FastAPI
+- PostgreSQL
+- DSA (NeetCode 150)
+- AI Engineering
+
+## Connect
+
+LinkedIn: linkedin.com/in/ayush-verma-2003av
